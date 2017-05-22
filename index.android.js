@@ -12,6 +12,8 @@ import {
   View
 } from 'react-native';
 
+import * as firebase from "firebase";
+
 export default class noticeboard extends Component {
   render() {
     return (
